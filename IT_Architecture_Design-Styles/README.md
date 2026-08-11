@@ -8,11 +8,11 @@
 | Integrante | RM |
 |---|---|
 | Douglas Gonçalves Carvalho | 367219 |
-| `[Nome do integrante]` | `[RM]` |
-| `[Nome do integrante]` | `[RM]` |
-| `[Nome do integrante]` | `[RM]` |
-| `[Nome do integrante]` | `[RM]` |
-| `[Nome do integrante]` | `[RM]` |
+| Murilo Matos Bernardo      | 369264  |
+| Thomaz Teixeira Toledo     | 367643 |
+| Fabio Adrey Salles         | 366554 |
+| Mateus Ferreria            | 368561 |
+
 
 ## 1. Resumo executivo
 
