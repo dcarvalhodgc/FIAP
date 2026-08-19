@@ -8,10 +8,11 @@
 | Integrante | RM |
 |---|---|
 | Douglas Gonçalves Carvalho | 367219 |
-| Murilo Matos Bernardo      | 369264  |
+| Murilo Matos Bernardo      | 369264 |
 | Thomaz Teixeira Toledo     | 367643 |
 | Fabio Adrey Salles         | 366554 |
-| Mateus Ferreria            | 368561 |
+| Mateus Mayrink             | 368561 |
+| Yuri Queiroz Paiva         | 367381 |
 
 
 ## 1. Resumo executivo
